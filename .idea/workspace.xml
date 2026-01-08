@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a26e0ef-15a8-4b4c-ad97-c398540b2900" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/domain.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flows.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +12,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "tsuki0272"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/tsuki0272/Clicker-Project",
+    "accountId": "b8a29502-f46a-4c39-ba84-1b84ebeefbf2"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -49,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1767901352492</updated>
       <workItem from="1767901353514" duration="220000" />
-      <workItem from="1767901585205" duration="352000" />
+      <workItem from="1767901585205" duration="1276000" />
     </task>
     <servers />
   </component>
